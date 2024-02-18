@@ -1,6 +1,4 @@
 
-
-
 $(function () {
     $('[data-bs-toggle="tooltip"]').tooltip()
   })
@@ -30,8 +28,6 @@ $(document).ready(function () {
 
 });
 
-
-<script>
     $(document).ready(function () {
         // Click event for the button
         $("button.btn-primary").click(function () {
@@ -39,4 +35,3 @@ $(document).ready(function () {
             alert("Información enviada");
         });
     });
-</script>
