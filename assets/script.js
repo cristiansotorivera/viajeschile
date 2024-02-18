@@ -29,3 +29,14 @@ $(document).ready(function () {
 
 
 });
+
+
+<script>
+    $(document).ready(function () {
+        // Click event for the button
+        $("button.btn-primary").click(function () {
+            // Show an alert with the message
+            alert("Información enviada");
+        });
+    });
+</script>
