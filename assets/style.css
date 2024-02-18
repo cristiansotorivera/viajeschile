@@ -40,11 +40,9 @@ body {
   
   /*carousel*/
   .my-carousel {
-    margin-bottom: 50px;
+    margin-bottom: 40px;
   }
   
-  
-
   
   /* cards */
   .card {
@@ -55,7 +53,7 @@ body {
   
   .card-title {
     font-size: 16pt;
-    font-weight: 400;
+    font-weight: 500;
     text-align: left;
     color: #ffffff;
   }
@@ -63,7 +61,7 @@ body {
   
   .card-text {
     font-size: 12pt;
-    font-weight: 400;
+    font-weight: 300;
     text-align: left;
     color: #ffffff;
   }
